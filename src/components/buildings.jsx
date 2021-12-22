@@ -16,7 +16,7 @@ const Buildings = () => {
                     <div className="row">
                         <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div className="page-header">
-                                <h2 className="pageheader-title">Buildings Lists</h2>
+                                <h2 className="pageheader-title">Buildings Lists Updated</h2>
                                 <label className="text-muted">Buildings registered in the system.</label>
                             </div>
                         </div>
